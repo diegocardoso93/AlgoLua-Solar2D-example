@@ -1,0 +1,3 @@
+[submodule "AlgoLua"]
+	path = AlgoLua
+	url = https://github.com/diegocardoso93/AlgoLua.git
